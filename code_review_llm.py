@@ -2,7 +2,6 @@ import os
 import ollama
 from openai import OpenAI
 import re
-from deep_translator import GoogleTranslator
 import deepl
 
 def load_code(py_file):
