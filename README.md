@@ -30,8 +30,8 @@ $ pip install -r requirements.txt
 ### 3️⃣ Set API Keys 🔑
 Ensure you have the required API keys for **OpenAI** and **DeepL**.
 ```bash
-export OPENAI_API_KEY="your_openai_api_key"
-export DEEPL_API_KEY="your_deepl_api_key"
+set OPENAI_API_KEY="your_openai_api_key"
+set DEEPL_API_KEY="your_deepl_api_key"
 ```
 
 ## 🚀 Usage
