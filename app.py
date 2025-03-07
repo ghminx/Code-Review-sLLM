@@ -33,7 +33,5 @@ if st.button("Run"):
             for chunk in stream_data(translated_text):
                 full_text += chunk + "\n"  
                 output_area.markdown(full_text)  
-
-        
     else:
         st.warning("please enter the code")

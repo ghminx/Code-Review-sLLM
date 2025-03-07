@@ -20,8 +20,6 @@ def code_review(model_name, code):
     Review this code, provide suggestions for improvement, coding best practices, 
     improve readability, and maintainability. Remove any code smells and anti-patterns. 
     Provide code examples for your suggestion. Respond in markdown format. 
-    answer is in Korean.
-
 
     Code:
     {code}
