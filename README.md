@@ -59,6 +59,3 @@ $ python code_review_llm.py <your_python_file>
 - 🏅 **qwen2.5-coder**
 - 🎖 **deepseek-coder:6.7b-instruct**
 
-## 🤝 Contributing
-Feel free to **fork** this repository, create a **branch**, and submit a **pull request** with your improvements! 🚀
-
